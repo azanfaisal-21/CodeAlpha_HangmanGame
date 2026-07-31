@@ -59,10 +59,6 @@ python main.py
 
 ---
 
-# 📸 Output
-
-(Add your screenshots here)
-
 ---
 
 # 📜 Internship Submission
